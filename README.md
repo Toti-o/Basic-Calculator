@@ -1,1 +1,2 @@
 # Basic-Calculator
+A simple Python program that turns basic math into quick results. The user enters two numbers and chooses an operation (add, subtract, multiply, or divide) and the program instantly calculates and displays the answer in a clean, readable format (for example: 10 + 5 = 15). It’s designed to make learning Python logic straightforward, using if, elif, and else to handle different operations. Perfect for quick calculations.
